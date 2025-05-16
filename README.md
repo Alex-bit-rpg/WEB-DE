@@ -33,12 +33,7 @@ This is a static multi-page blog website built as a project to demonstrate funda
 * Dynamically updated current year in the footer.
 
 ## Project Structure
-Documentation is a great idea for your project\! It helps others understand what your website is, how it's built, and how to use it or contribute to it. For a web project like this, the most common form of documentation is a **`README.md` file** placed in the root directory of your project repository.
-
 This `README.md` file typically uses Markdown syntax (the `.md` extension stands for Markdown) and is automatically displayed on the main page of your repository on platforms like GitHub, GitLab, and Bitbucket.
-
-Here's what you could include in your `README.md` documentation for the blog website:
-
 
 my-blog-project/
 ├── index.html          - The homepage
