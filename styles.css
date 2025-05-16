@@ -10,8 +10,8 @@
 body {
     font-family: sans-serif; /* Choose a modern, readable font */
     line-height: 1.6;
-    color: #333; /* Dark grey text */
-    background-color: #f4f4f4; /* Light grey background */
+    color: #030303; /* Dark grey text */
+    background-color: #ffffff; /* Light grey background */
     padding-top: 60px; /* Add padding to prevent content from being hidden by fixed header */
 }
 
