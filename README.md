@@ -1,6 +1,12 @@
 # ARCHILLER'S BLOG
+<<<<<<< HEAD
 
 ![alt text](<blog screenshot.png>)
+=======
+
+![blog screenshot](https://github.com/user-attachments/assets/8e64de53-bf4c-45da-a1b2-b5e21c4577be)
+
+>>>>>>> 79392c6fe9961c605467f32ce2337a14a979d98c
 
 ## Project Description
 
@@ -32,9 +38,13 @@ This is a static multi-page blog website built as a project to demonstrate funda
 * Dynamically updated current year in the footer.
 
 ## Project Structure
+<<<<<<< HEAD
 
 This `README.md` file typically uses Markdown syntax (the `.md` extension stands for Markdown) and is automatically displayed on the main page of your repository on platforms like GitHub, GitLab, and Bitbucket
 
+=======
+This `README.md` file typically uses Markdown syntax (the `.md` extension stands for Markdown) and is automatically displayed on the main page of your repository on platforms like GitHub, GitLab, and Bitbucket.
+>>>>>>> 79392c6fe9961c605467f32ce2337a14a979d98c
 
 my-blog-project/
 ├── index.html          - The homepage
@@ -56,11 +66,21 @@ my-blog-project/
 
 ## Deployment
 
-This project is deployed online using [Choose your deployment service: GitHub Pages, Netlify, or Vercel].
+This project is deployed online using Github.
 
-* **Deployment Link:** [Insert the actual live URL of your deployed website here]
+* **Deployment Link:** https://alex-bit-rpg.github.io/WEB-DE/
 
-*(Optional: Briefly describe the deployment method used, e.g., "Deployed automatically from the `main` branch using GitHub Pages settings.")*
+PROCEDURES TO DEPLOY THE PROJECTS
+1. You make sure you save your project in an empty repository
+2. On your upper right, click on settings
+3. On your left, you will see many options, but press on pages
+4. On pages, you will view a space left out for you to choose options in which your project shall be saved
+5. On the first space, there will be two options either master or main, choose the option according to how the document is saved
+6. The second space, choose root folder
+7. Press Save and wait for it to save
+8. Refresh the page for viewing of deployment link
+9. Move back to the start page of the repository
+10.On your right tou will see your deployment link.
 
 ## Future Enhancements
 
@@ -73,11 +93,14 @@ This project is deployed online using [Choose your deployment service: GitHub Pa
 
 ## Author
 
-[Your Name or Username]
+[ALEX NG'ANG'A]
 
 ## License
 
-*(Optional: Specify a license if you want to allow others to use your code, e.g., MIT License)*
+It is licensed by the government of Kenya through the communication centre
 
+<<<<<<< HEAD
 ---
 
+=======
+>>>>>>> 79392c6fe9961c605467f32ce2337a14a979d98c
