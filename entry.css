@@ -12,7 +12,7 @@ body {
 }
 
 .entry-container {
-    background-color:aqua;
+    background-color:rgb(49, 215, 96);
     padding: 30px;
     border-radius: 8px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
